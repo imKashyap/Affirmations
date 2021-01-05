@@ -4,4 +4,4 @@ A daily affirmations app to share your accumulated wisdom built in kotlin. It di
 
 ## Screenshots
 
-<img src="screenshot/ss.png" width=350 alt="Screenshot of the app.">
+<img src="screenshot/ss.jpeg" width=350 alt="Screenshot of the app.">
